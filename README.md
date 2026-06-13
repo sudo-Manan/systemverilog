@@ -42,12 +42,6 @@ All RTL modules are written using synthesizable SystemVerilog constructs.
 - Adder verification
 - PIPO Shift Register verification
 
-### Random Packet Generator
-- Mailbox-based communication
-
-### UVM-Style Environment
-- Half Adder verification environment
-- Adder verification environment
 
 ---
 
